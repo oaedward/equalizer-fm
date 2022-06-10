@@ -273,6 +273,10 @@ footer {
         min-height: 100vh;
     }
 
+    .feature {
+        margin-top: 300px
+    }
+
     .hero-text h1 {
         font-size: 88px;
     }
